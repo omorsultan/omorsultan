@@ -1,6 +1,6 @@
 # Project Name
 
-Welcome to [Your Project Name]!
+Welcome to [my first project]!
 
 ## Description
 
