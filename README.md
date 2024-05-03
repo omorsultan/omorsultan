@@ -4,10 +4,10 @@ Welcome to my GitHub profile! I'm Omor Sultan, a passionate software developer. 
 
 ## About Me
 
-- **Name:** Your Name
-- **Location:** Your Location
-- **Profession:** Your Profession/Field of Interest
-- **Hobbies:** Your Hobbies/Interests
+- **Name:** Omor Sultan
+- **Location:** Dhaka, Bangladesh
+- **Profession:** Software Development
+- **Hobbies:** Reading Book
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername)
 - **Website/Blog:** [Your Website/Blog](https://www.yourwebsite.com)
 
