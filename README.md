@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm Omor Sultan, a passionate software developer. 
 - **Location:** Dhaka, Bangladesh
 - **Profession:** Software Development
 - **Hobbies:** Reading Book
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/omorsultan)
+- **LinkedIn:** [Your LinkedIn Profile]([https://www.linkedin.com/in/omorsultan](https://www.linkedin.com/in/omor-sultan-716284335/))
 - **Website/Blog:** [Your Website/Blog](https://www.yourwebsite.com)
 
 ## Projects
